@@ -8,5 +8,9 @@ url: "http://inverseprobability.com/" # the base hostname & protocol for your si
 twitter_username: lawrennd
 github_username:  lawrennd
 
+analytics:
+  google:
+    tracking_id: UA-62968536-1
+
 # Build settings
 markdown: kramdown
